@@ -3,3 +3,11 @@
 AI Algorithms
 
 This repository contains implementations of AI algorithms in game applications.
+
+### Uninformed search
+
+Examples include breadth first graph search on Lights out puzzle game and linear disk game, and exhaustive search in the N-queens game.
+
+### Informed search
+
+Examples include iterative deepening depth first search (IDDFS) and A\* search using the Manhattan distance heuristic in the tile puzzle game.
